@@ -1,0 +1,31 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "Metal"
+						}
+					}
+				]
+			},
+			"price_copy": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Mollit ex aliquip pariatur consectetur do voluptate. Pariatur incididunt dolore ullamco minim laboris. In cillum consectetur adipisicing sit veniam elit."
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
